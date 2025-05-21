@@ -3,4 +3,4 @@
 - 🌱 我正在学习 深度强化学习
 
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jiahui)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=picaun)](https://github.com/anuraghazra/github-readme-stats)
