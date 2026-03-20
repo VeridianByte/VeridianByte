@@ -1,0 +1,29 @@
+name: Generate Stats Images
+
+on:
+  push:
+    paths:
+      - "README.md"
+  schedule:
+    # 每天 UTC 时间 00:00 自动运行一次 (北京时间早上 8 点)
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Stats Images
+
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate the images
+        uses: itgoyo/github-stats-transparent@output
+        with:
+          USERNAME: VeridianByte
+          
+          # 可选：是否显示私有仓库贡献 (默认 false)
+          SHOW_PRIVATE: false
+          
+          # 可选：排除的语言 (例如不想显示 HTML/CSS)
+          # EXCLUDE_LANGUAGES: HTML,CSS
