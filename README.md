@@ -19,7 +19,7 @@
       <!-- YOLO / Ultralytics -->
       <img src="https://img.shields.io/badge/YOLO-00A8E1?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLO" height="28" />
       <!-- NVIDIA -->
-      <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" height="28" />
+      <img src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" height="28"/>
       <!-- Intel RealSense -->
       <img src="https://img.shields.io/badge/RealSense-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="RealSense" height="28" />
       <!-- Docker -->
