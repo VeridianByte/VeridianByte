@@ -1,2 +1,2 @@
 # 👋 Hello, I'm 白菜
-![Metrics](metrics.svg)
+![Metrics](github-metrics.svg)
