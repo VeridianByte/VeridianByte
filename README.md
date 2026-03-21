@@ -42,7 +42,7 @@
     height="200"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeridianByte&layout=compact&theme=tokyonight&hide_border=true&hide=css,javascript,json" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeridianByte&layout=compact&theme=tokyonight&hide_border=true&hide=html" 
     width="49%" 
     height="200"
     style="position: relative; top: 4px;"
