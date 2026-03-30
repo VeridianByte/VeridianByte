@@ -37,7 +37,7 @@
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=VeridianByte&theme=tokyonight&hide_border=true" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VeridianByte&theme=tokyonight" 
     width="49%" 
     height="200"
   />
