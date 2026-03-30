@@ -37,15 +37,14 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=VeridianByte&theme=tokyonight&hide_border=true" 
+    src="https://streak-stats.demolab.com?user=VeridianByte&theme=tokyonight&hide_border=true" 
     width="49%" 
     height="200"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeridianByte&layout=compact&theme=tokyonight&hide_border=true&hide=html" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VeridianByte&theme=tokyonight" 
     width="49%" 
     height="200"
-    style="position: relative; top: 4px;"
   />
 </p>
 
